@@ -7,4 +7,4 @@ Simple weather app using HTML, CSS, and JavaScript
 
 
 ## Demo site
-
+https://ayushmina.github.io/weatherapp/
